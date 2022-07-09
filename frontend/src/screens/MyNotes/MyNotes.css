@@ -1,0 +1,49 @@
+.cnn {
+  /* align-self: center; */
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-top: 20px;
+  width: 75vw;
+  margin: 0.5vw;
+}
+
+.acche {
+  width: 75vw;
+  display: flex;
+  /* justify-content: center; */
+  align-self: auto;
+  justify-self: center;
+  margin-bottom: 0px;
+}
+
+.ch {
+  display: flex;
+  /* margin: auto; */
+}
+
+.titl {
+  flex: 1;
+  cursor: pointer;
+  align-self: center;
+  align-items: center;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 2vw;
+  margin-left: 12vw;
+  width: 52vw;
+}
+
+/* .edb {
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.eb {
+  margin-right: 1vw;
+}
+
+.cardBody {
+  justify-content: left;
+}

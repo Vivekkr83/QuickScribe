@@ -1,0 +1,25 @@
+.loginContainer {
+  margin-top: 2vw;
+  max-width: 600px;
+}
+
+.ea {
+  font-size: 16px;
+}
+.pa {
+  font-size: 16px;
+}
+
+.nc {
+  margin-top: 1vw;
+}
+
+.rh {
+  color: white;
+}
+
+@media only screen and (max-width: 700px) {
+  .nc {
+    margin-top: 2vw;
+  }
+}

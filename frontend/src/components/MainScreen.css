@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;1,100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@100;200;300;400;500&display=swap");
+
+.mainback {
+  min-height: 93vh;
+  display: flex;
+  padding-top: 40px;
+  margin: auto;
+  width: 75vw;
+}
+
+.page {
+  width: 100%;
+}
+
+.con {
+  /* align-items: center; */
+  /* justify-content: left; */
+  width: 90vw;
+}
+
+.heading {
+  font-size: 50px;
+  font-family: "Arima";
+  font-weight: 300;
+  /* padding: 25px 70px; */
+  /* padding-left: 70px; */
+  padding-top: 45px;
+  color: white;
+  justify-content: left;
+}
+
+@media only screen and(max-width: 600px) {
+  .heading {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+}

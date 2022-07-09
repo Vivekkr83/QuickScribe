@@ -1,0 +1,145 @@
+.out-main {
+  background-color: #79b9dd;
+  margin-top: 0px;
+  padding-top: 3vh;
+  margin-bottom: 0px;
+}
+
+.main {
+  min-height: 45vw;
+  display: flex;
+  width: auto;
+
+  align-items: center;
+  background-image: url("../../NotesPage\ Background\ \(5\).jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-color: black; */
+
+  margin-top: 40px;
+  /* padding-left: 20px; */
+}
+
+.landContent {
+  padding-left: 10px;
+  margin: auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.main-title > h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 60px;
+  align-items: left;
+  justify-content: left;
+
+  color: #624a4a;
+
+  /* border: 0.432168px solid #000000; */
+}
+
+.main-title > h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 95px;
+  align-items: left;
+  justify-content: left;
+
+  color: #624a4a;
+}
+
+.sub-title > p {
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.authen {
+  margin-top: -5vh;
+  margin-right: 21vw;
+}
+
+.Login {
+  width: 200px;
+  height: 55px;
+  margin-bottom: 55px;
+}
+
+.Signin {
+  width: 200px;
+  height: 55px;
+}
+
+@media only screen and (max-width: 980px) {
+  .out-main {
+    padding-top: 0vh;
+  }
+  .main {
+    min-height: 80vh;
+  }
+  .Login {
+    width: 100px;
+    height: 55px;
+    margin-bottom: 55px;
+  }
+
+  .Signin {
+    width: 100px;
+    height: 55px;
+  }
+
+  .main-title > h2 {
+    font-size: 50px;
+  }
+  .main-title > h1 {
+    font-size: 60px;
+  }
+
+  .authen {
+    margin-right: 21vw;
+  }
+
+  .Login {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 675px) {
+  .main {
+    background-size: auto;
+    display: block;
+    margin: auto;
+    align-content: center;
+  }
+
+  .authen {
+    /* margin: auto; */
+    margin-top: 90px;
+    padding-bottom: 90px;
+    justify-items: center;
+    margin-left: 35vw;
+  }
+
+  .Login {
+    width: 30vw;
+  }
+
+  .Signin {
+    width: 30vw;
+  }
+
+  .intro {
+    padding-top: 60px;
+  }
+}
