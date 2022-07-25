@@ -24,3 +24,4 @@ On logging in, the users are redirected to my notes page. There, on clicking the
 On the "My Notes" page, all the notes created by the user are listed. With each note, there are "Edit" and "Delete" buttons that allow users to edit or delete the note.
 
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21](https://user-images.githubusercontent.com/91874598/180846343-bf3a2ed3-ad93-4a04-a9a3-df292b208094.gif)
+![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_1](https://user-images.githubusercontent.com/91874598/180848252-6dd3ad8c-8a38-436c-b7ba-99b441450512.gif)
