@@ -18,3 +18,4 @@ After creating their account, user can access their account using the Login butt
 ## Creating a new Note
 
 ![AZzipP Notes_createNote](https://user-images.githubusercontent.com/91874598/180804841-7d83fb79-2a38-425d-a0c5-ec219f94f711.gif)
+![AZzipP Notes - Google Chrome 2022-07-25 18-55-21](https://user-images.githubusercontent.com/91874598/180846343-bf3a2ed3-ad93-4a04-a9a3-df292b208094.gif)
