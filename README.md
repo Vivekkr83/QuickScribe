@@ -14,3 +14,4 @@ On clicking the Sign Up button, the user is redirected to Registration page. The
 After creating their account, user can access their account using the Login button, upon clicking on which they are take to the Login page where they have to login using their Email ID and password. Upon Login, they are redirected to their notes page.
 
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_1](https://user-images.githubusercontent.com/91874598/180801665-c0151b7e-0bf9-4f32-bb15-cc9d9ac9d711.gif)
+![AZzipP Notes_createNote](https://user-images.githubusercontent.com/91874598/180804841-7d83fb79-2a38-425d-a0c5-ec219f94f711.gif)
