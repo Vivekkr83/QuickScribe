@@ -6,7 +6,7 @@ The below image is the home page of the AZzipP NOTES website. It consists of Log
 ![Azzipp notes home page](https://user-images.githubusercontent.com/75994974/180800331-1114dc62-adb1-4055-a999-5ecee763a472.JPG)
 
 ## User Registration
-On clicking the Sign Up button, the user is redirected to Registration page. There users have to enter their Username, Email ID and create a password to create a new accoutn. User can also provide diaplay picture.
+On clicking the Sign Up button, the user is redirected to Registration page. There users have to enter their Username, Email ID and create a password to create a new account. User can also provide diaplay picture.
 
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_7](https://user-images.githubusercontent.com/91874598/180798944-34792d65-2b12-45a2-a665-1b3ff3908b95.gif)
 
