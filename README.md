@@ -16,6 +16,11 @@ After creating their account, user can access their account using the Login butt
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_1](https://user-images.githubusercontent.com/91874598/180801665-c0151b7e-0bf9-4f32-bb15-cc9d9ac9d711.gif)
 
 ## Creating a new Note
+On logging in, the users are redirected to my notes page. There, on clicking the "CREATE NEW NOTE" button they are taken to create note page where they can create notes.
 
 ![AZzipP Notes_createNote](https://user-images.githubusercontent.com/91874598/180804841-7d83fb79-2a38-425d-a0c5-ec219f94f711.gif)
+
+## Editing and Deleting Notes
+On the "My Notes" page, all the notes created by the user are listed. With each note, there are "Edit" and "Delete" buttons that allow users to edit or delete the note.
+
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21](https://user-images.githubusercontent.com/91874598/180846343-bf3a2ed3-ad93-4a04-a9a3-df292b208094.gif)
