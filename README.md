@@ -31,5 +31,5 @@ On the Navigation Bar, there is a Search Bar, which can be used to search for th
 ![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_1](https://user-images.githubusercontent.com/91874598/180848252-6dd3ad8c-8a38-436c-b7ba-99b441450512.gif)
 
 ## Editing the Profile
-
+![AZzipP Notes - Google Chrome 2022-07-25 18-55-21_2](https://user-images.githubusercontent.com/91874598/180850001-6454fd50-1147-42b5-b046-f0d912a52bf6.gif)
 
